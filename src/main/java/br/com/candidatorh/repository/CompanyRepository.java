@@ -34,8 +34,6 @@ public class CompanyRepository {
 
             stmt.executeUpdate();
 
-            System.out.println("Empresa salva com sucesso!");
-
         } catch (SQLException e) {
             System.out.println("Erro ao salvar empresa.");
             e.printStackTrace();
