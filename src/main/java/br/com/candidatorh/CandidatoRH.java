@@ -4,7 +4,6 @@ import br.com.candidatorh.database.DatabaseInitializer;
 import br.com.candidatorh.model.Company;
 import br.com.candidatorh.repository.CompanyRepository;
 
-import java.util.ArrayList;
 import java.util.Scanner;
 
 public class CandidatoRH {
