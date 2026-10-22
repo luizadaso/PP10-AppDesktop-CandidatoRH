@@ -50,11 +50,4 @@ public class Company {
         return emailHR;
     }
 
-    public void showCompanies() {
-        System.out.println("Nome salvo: " + this.companyName);
-        System.out.println("Nome salvo: " + this.glassdoorRating);
-        System.out.println("Nome salvo: " + this.vacancyType);
-        System.out.println("Nome salvo: " + this.requirements);
-        System.out.println("Nome salvo: " + this.emailHR);
-    }
 }
