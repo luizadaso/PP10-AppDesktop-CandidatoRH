@@ -1,4 +1,4 @@
-package org.example;
+package br.com.candidatorh.model;
 
 public class Company {
 
