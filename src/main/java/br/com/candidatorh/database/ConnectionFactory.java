@@ -1,4 +1,4 @@
-package org.example;
+package br.com.candidatorh.database;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
